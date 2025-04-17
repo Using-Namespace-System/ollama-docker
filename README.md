@@ -79,17 +79,9 @@ To stop the containers and remove the network:
 docker compose down
 ```
 
-## Contributing
-
-We welcome contributions! If you'd like to contribute to the Ollama Docker Compose Setup, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
 
 ## License
 
-This project is licensed under the [RSOSL](LICENSE). Feel free to use, modify, and distribute it according to the terms of the license. Just give me a mention and some credit
+Developed by [vantlynxz@gmail.com](mailto:vantlynxz@gmail.com).
 
-## Contact
-
-If you have any questions or concerns, please contact us at [vantlynxz@gmail.com](mailto:vantlynxz@gmail.com).
-
-Enjoy using Ollama with Docker Compose! 🐳🚀
+Licensed under the [RSOSL](LICENSE).
